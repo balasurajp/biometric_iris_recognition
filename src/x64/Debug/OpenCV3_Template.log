@@ -1,0 +1,26 @@
+﻿  segmentiris.cpp
+c:\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\sai ritesh\documents\visual studio 2017\projects\opencv3_template\opencv3_template\segmentiris.cpp(14): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\sai ritesh\documents\visual studio 2017\projects\opencv3_template\opencv3_template\segmentiris.cpp(20): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\sai ritesh\documents\visual studio 2017\projects\opencv3_template\opencv3_template\segmentiris.cpp(27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\sai ritesh\documents\visual studio 2017\projects\opencv3_template\opencv3_template\segmentiris.cpp(28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\sai ritesh\documents\visual studio 2017\projects\opencv3_template\opencv3_template\segmentiris.cpp(29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\sai ritesh\documents\visual studio 2017\projects\opencv3_template\opencv3_template\segmentiris.cpp(30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\sai ritesh\documents\visual studio 2017\projects\opencv3_template\opencv3_template\segmentiris.cpp(59): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\sai ritesh\documents\visual studio 2017\projects\opencv3_template\opencv3_template\segmentiris.cpp(73): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sai ritesh\documents\visual studio 2017\projects\opencv3_template\opencv3_template\segmentiris.cpp(74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sai ritesh\documents\visual studio 2017\projects\opencv3_template\opencv3_template\segmentiris.cpp(75): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sai ritesh\documents\visual studio 2017\projects\opencv3_template\opencv3_template\segmentiris.cpp(80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\sai ritesh\documents\visual studio 2017\projects\opencv3_template\opencv3_template\segmentiris.cpp(88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\sai ritesh\documents\visual studio 2017\projects\opencv3_template\opencv3_template\segmentiris.cpp(92): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\sai ritesh\documents\visual studio 2017\projects\opencv3_template\opencv3_template\segmentiris.cpp(131): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\sai ritesh\documents\visual studio 2017\projects\opencv3_template\opencv3_template\segmentiris.cpp(132): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+c:\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\sai ritesh\documents\visual studio 2017\projects\opencv3_template\opencv3_template\main.cpp(55): warning C4309: '=': truncation of constant value
+c:\users\sai ritesh\documents\visual studio 2017\projects\opencv3_template\opencv3_template\main.cpp(61): warning C4309: '=': truncation of constant value
+  Generating Code...
+  OpenCV3_Template.vcxproj -> C:\Users\SAI RITESH\Documents\Visual Studio 2017\Projects\OpenCV3_Template\x64\Debug\OpenCV3_Template.exe
+  OpenCV3_Template.vcxproj -> C:\Users\SAI RITESH\Documents\Visual Studio 2017\Projects\OpenCV3_Template\x64\Debug\OpenCV3_Template.pdb (Partial PDB)
