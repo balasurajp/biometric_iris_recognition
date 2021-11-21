@@ -143,11 +143,18 @@ Many biometric systems has two modes of operation.
 The primary objective is implementing an robust and real-time iris recognition system. To test the performance of the system, a database of 756 greyscale eye images created by The Chinese Academy of Sciences – Institute of Automation (CASIA) is used. This system is composed of small set of sub-systems, can be understood as each stage of iris recognition. These sub-systems can be categorized into either an Enrollment mode or an Identification mode.
 
 <p align="center"> CASIA Interval Dataset </p>
-|                 |                |
-|:---------------:|:---------------|
+| Information     | Quantity       |
+|:----------------|:---------------|
 | Classes         | 124 (7 samples)|
 | Training data   | 620 (5 samples)|
 | Testing data    | 248 (2 samples)|
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 # Methodology 
 
