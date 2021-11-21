@@ -195,11 +195,11 @@ This system framework is broadly classified into four sub-systems.
     - Haar Wavlets
     - Laplacian of Gaussian Filters
 
-  <p align="center"> <img src="images/wft.png" /> </p>
+  <p align="center"> <img src="images/wft.png" /> Model Representation </p>
 
   - **Deep NeuralNet Features**: The features maps from fully convolutional CNN networks. which contains complex & compact discriminating latent information. They can extracted from either pre-trained CNNs(VGGs, ResNets, and DenseNets) and a FC-CNN trained for this specific objective. Finally, these maps should be transformed and encoded into discrete patterns 
 
-  <p align="center"> <img src="images/dft.png" /> </p>
+  <p align="center"> <img src="images/dft.png" /> Model Illustration </p>
 
 **Feature Matching**:
   Finally, this process uses a similarity or dissimilarity mathematical metric to differentiate two iris templates. Rotational inconsistencies can be tackled by comparing with shifting templates in x-direction and taking the average metric over all comparisons. 
