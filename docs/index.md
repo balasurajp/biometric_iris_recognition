@@ -182,8 +182,10 @@ This system framework is broadly classified into four sub-systems.
   - This model accounts for pupil dilation, imaging distance and non-concentric pupil displacement, but not rotational inconsistencies.
 
   <p align="center"> <img src="images/drsm_idea.png" /> </p>
+  <p align="center"> Model Representation </p>
 
   <p align="center"> <img src="images/drsm_example.png" /> </p>
+  <p align="center"> Model Illustration </p>
 
 **Feature Encoding**: 
   This process extracts significant and discriminating features in an iris pattern, which will be encoded into templates for comparisons. Most iris recognition systems make use of a band pass decomposition of the iris image to create a biometric template.
@@ -196,12 +198,10 @@ This system framework is broadly classified into four sub-systems.
     - Laplacian of Gaussian Filters
 
   <p align="center"> <img src="images/wft.png" /> </p>
-  <p align="center"> Model Representation </p>
 
   - **Deep NeuralNet Features**: The features maps from fully convolutional CNN networks. which contains complex & compact discriminating latent information. They can extracted from either pre-trained CNNs(VGGs, ResNets, and DenseNets) and a FC-CNN trained for this specific objective. Finally, these maps should be transformed and encoded into discrete patterns 
 
   <p align="center"> <img src="images/dft.png" /> </p>
-  <p align="center"> Model Illustration </p>
 
 **Feature Matching**:
   Finally, this process uses a similarity or dissimilarity mathematical metric to differentiate two iris templates. Rotational inconsistencies can be tackled by comparing with shifting templates in x-direction and taking the average metric over all comparisons. 
